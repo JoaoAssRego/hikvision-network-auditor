@@ -107,5 +107,5 @@ Ferramenta de automação desenvolvida em Python para auditoria e inventário de
 3. Execute o script:
     ```python camera_scanner.py```
 
-⚠️ Disclaimer
-Este software foi desenvolvido para uso administrativo em redes autorizadas.
+## ⚠️ Disclaimer
+* Este software foi desenvolvido para uso administrativo em redes autorizadas.
